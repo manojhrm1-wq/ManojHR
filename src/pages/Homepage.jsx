@@ -578,7 +578,7 @@ function Homepage() {
                 <footer className="py-8 px-6 sm:px-8 md:px-12 lg:px-16 xl:px-24">
                     <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
                         <div className="flex items-center">
-                            <GitHubButton className="self-center" href="https://github.com/srinivaspavan73" data-color-scheme={theme} data-icon="octicon-star" data-size="large" data-show-count="False" aria-label="Star dsbalico/dsfolio on GitHub">Github</GitHubButton>
+                            <GitHubButton className="self-center" href="https://github.com/manojhrm1-wq/ManojHR" data-color-scheme={theme} data-icon="octicon-star" data-size="large" data-show-count="False" aria-label="Star dsbalico/dsfolio on GitHub">Github</GitHubButton>
                         </div>
                         <p className="text-gray-600 dark:text-gray-400 text-sm text-center font-light">{user_info.footer}</p>
                         <button onClick={scrollToTop} className="group inline-flex items-center gap-2 text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 text-sm font-medium transition-colors duration-300 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 dark:focus:ring-offset-gray-900 rounded-lg px-4 py-2">

@@ -49,7 +49,7 @@ const info = {
 			title: "Object detection using YOLO Deep sort",
 			description: "I am a computer vision and AI enthusiast specializing in Object Detection using YOLO and Deep SORT..",
 			technologies: "https://skillicons.dev/icons?i=python&perline=5&theme=",
-			github: "https://github.com/settings/profile",
+			github: "https://github.com/manojhrm1-wq/ManojHR",
             // link: "https://letterdigitshape-classification.netlify.app/"
 		},
 
@@ -57,7 +57,7 @@ const info = {
 			title: "VOR Assential Aviation Technology",
 			description: "I am an aviation technology enthusiast with a focus on VHF Omnidirectional Range (VOR) — an essential navigation system in modern aviation.",
 			technologies: "https://skillicons.dev/icons?i=python&perline=10&theme=",
-			github: "https://github.com/settings/profile",
+			github: "https://github.com/manojhrm1-wq/ManojHR",
             // link: "https://thechatroom.netlify.app/"
 		},
 
